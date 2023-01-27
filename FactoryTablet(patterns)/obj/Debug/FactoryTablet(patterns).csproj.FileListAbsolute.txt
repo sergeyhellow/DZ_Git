@@ -1,0 +1,11 @@
+C:\Users\User\Documents\C# projekts\FactoryTablet(patterns)\FactoryTablet(patterns)\bin\Debug\FactoryTablet(patterns).exe.config
+C:\Users\User\Documents\C# projekts\FactoryTablet(patterns)\FactoryTablet(patterns)\bin\Debug\FactoryTablet(patterns).exe
+C:\Users\User\Documents\C# projekts\FactoryTablet(patterns)\FactoryTablet(patterns)\bin\Debug\FactoryTablet(patterns).pdb
+C:\Users\User\Documents\C# projekts\FactoryTablet(patterns)\FactoryTablet(patterns)\obj\Debug\FactoryTablet(patterns).csproj.AssemblyReference.cache
+C:\Users\User\Documents\C# projekts\FactoryTablet(patterns)\FactoryTablet(patterns)\obj\Debug\FactoryTablet(patterns).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\C# projekts\FactoryTablet(patterns)\FactoryTablet(patterns)\obj\Debug\FactoryTablet_patterns_.Form1.resources
+C:\Users\User\Documents\C# projekts\FactoryTablet(patterns)\FactoryTablet(patterns)\obj\Debug\FactoryTablet_patterns_.Properties.Resources.resources
+C:\Users\User\Documents\C# projekts\FactoryTablet(patterns)\FactoryTablet(patterns)\obj\Debug\FactoryTablet(patterns).csproj.GenerateResource.cache
+C:\Users\User\Documents\C# projekts\FactoryTablet(patterns)\FactoryTablet(patterns)\obj\Debug\FactoryTablet(patterns).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C# projekts\FactoryTablet(patterns)\FactoryTablet(patterns)\obj\Debug\FactoryTablet(patterns).exe
+C:\Users\User\Documents\C# projekts\FactoryTablet(patterns)\FactoryTablet(patterns)\obj\Debug\FactoryTablet(patterns).pdb
